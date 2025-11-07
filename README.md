@@ -18,7 +18,7 @@ This is my *first web development project* — an Instagram Login Page clone bui
 ---
 
 ## 📷 Project Screenshot  
-![Instagram Login Clone Screenshot](./insta.jpg)
+![Instagram Login Clone Screenshot](./instagram-loginpage-clone.png)
 
 (Replace the above file name with your actual screenshot image name and make sure it’s in the same folder.)
 
