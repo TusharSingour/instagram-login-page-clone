@@ -1,0 +1,87 @@
+        body{
+            display: flexp;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+    .login{
+        display: flex;
+        margin: 50px;
+    }
+    .image{
+        margin: 10px;
+        justify-content: center;
+    }
+    .login-box{
+        align-items: center;
+        width: 20px;
+        font-size: 20px;
+        
+    }
+
+    button{
+    width: 170px;
+    height: 30px;
+    color: white;
+    background-color: rgb(25, 180, 241);
+    border: solid;
+    border-radius: 5px;
+    margin-left: 32px;
+    }
+
+    .insta-name{
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 50px;
+    font-family:cursive,initial;
+    }
+
+    .or-section{
+        display: flex;
+        font-weight: bold;
+        margin: 15px 0;
+        font-weight: 600px;
+        font-size: 13px;
+        margin-left: 105px;
+    }
+
+    .fb-login{
+        font-size: 15px;
+        margin-left: 50px;
+        text-decoration: none;
+    }
+
+    .forgot-password {
+        font-size: 15px;
+        margin-left:40px;
+        margin-top: 10px;
+    
+    }
+
+    .Sign-up{
+        font-size: 15px;
+        text-decoration: none;
+        margin-top: 40px;
+        margin-left: 25px;
+        
+    }
+
+    .footer{
+        position:fixed;
+        bottom:0px;
+        left: 35%;
+        font-size: 13px;
+        color: black;
+        padding: 10px 0px;
+        display: flex;
+        gap: 13px;
+        justify-content: center;
+    }
+
+    footer a {
+        text-decoration: none;
+        color: black;
+        margin: 0 8px;
+        display: inline-block;
+
+    }
+    
