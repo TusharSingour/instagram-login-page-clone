@@ -36,6 +36,6 @@ I tried to recreate the Instagram login page design as closely as possible to pr
 
 ---
 
-👨‍💻 *Created by:* [Your Name]  
+👨‍💻 *Created by:* [Tushar Singour]  
 📅 First Project — HTML & CSS Journey Begins!
 
